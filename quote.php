@@ -4,7 +4,7 @@
 
 <!-- Figure out Forms! -->
 <form action="/submit.php">
-    <p>Get a Free Quote!</p>
+    <p>Get a Free Quote</p>
   <label for="name">Name:</label><br>
   <input type="text" id="name" name="name" required><br><br>
 
@@ -17,7 +17,7 @@
   <label for="number">Phone Number:</label><br>
   <input type="text" id="number" name="number" required><br><br>
 
-  <button type="submit">Submit</button>
+  <button id="submit" type="submit">Submit</button>
 </form>
 
 </div>
