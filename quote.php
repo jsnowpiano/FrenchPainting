@@ -2,7 +2,6 @@
 
 <div id="quotePage">
 
-<!-- Figure out Forms! -->
 <form action="/submit.php">
     <p>Get a Free Quote</p>
   <label for="name">Name:</label><br>

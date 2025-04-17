@@ -7,7 +7,7 @@
 <main>
     <div id="introduction">
         <img src="images/headshot.png" alt="Kearl">
-        <p>"Hi, I’m [Your Name], the owner of [Business Name], a trusted painting service specializing in interior and exterior house painting.<br> With over [X] years of experience, I’ve helped homeowners across [area] transform their spaces with a fresh coat of paint.”</p>
+        <p>"Hi, I’m Mike French, the owner of French’s Painting, a trusted painting service specializing in interior and exterior house painting.<br> With over 20 years of experience, I’ve helped homeowners across St. George transform their spaces with a fresh coat of paint.”</p>
     </div>
     <br>
 

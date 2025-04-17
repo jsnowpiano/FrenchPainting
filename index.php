@@ -1,6 +1,5 @@
 <?php include 'header.php';?>
 
-<!-- Attention Grabbing Section -->
 <div id="mainPage">
         <h1 class="homeSplashText" >Bring a New <br> Shade To <br> Your Home</h1>
 
@@ -10,7 +9,6 @@
         </div>
     </div>
 
-<!-- Additional Info -->
 <main>
 
     <h2>Our Painting <br> Services</h2>
@@ -39,7 +37,7 @@
         <p>Be sure to see the other services<br> that we can do from cabinets to furnishings</p>
     </div>
 
-    <!-- Surely there a better way... right? -->
+
     <div id="splashImg">
         <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
         <h1 class="white">Find Your Price</h1>

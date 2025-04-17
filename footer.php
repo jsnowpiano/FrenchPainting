@@ -5,7 +5,6 @@
         <p class="footName">French's Painting</p> 
     </div>   
 
-    <img src="images/headshot.png" alt="Kearl">
 
     <p>Contact Us!</p>
     <div id="footerContact">
